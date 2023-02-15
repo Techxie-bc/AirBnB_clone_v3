@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/Ivordean)
+Ivordean - [Github](https://github.com/Ivordean)
 Second part of Airbnb: Chiamaka onyia
 ## License
 Public Domain. No copy write protection. 
